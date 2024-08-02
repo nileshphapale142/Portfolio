@@ -15,6 +15,8 @@
 	}[];
 	export let className: string | undefined = undefined;
 
+	// console.log(navItems);
+
 	// const { scrollYProgress } = useScroll();
 	const { scrollYProgress } = useViewportScroll();
 
