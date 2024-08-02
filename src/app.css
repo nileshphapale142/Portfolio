@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    --sky-500: hsl(199, 89%, 48%);
+    --pink-200: hsl(316, 86%, 70%);
+}
+
+
+@layer utilities {
+    .heading {
+        @apply font-bold text-4xl md:text-5xl text-center text-white;
+    }
+}
