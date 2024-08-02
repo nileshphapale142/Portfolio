@@ -23,7 +23,7 @@
 				class="uppercase tracking-widest text-xs text-center text-blue-100
             max-w-80"
 			>
-				Dynamic Web Magic in Web
+				Dynamic Magicin Web
 			</h2>
 
 			<TextGenerateEffect
